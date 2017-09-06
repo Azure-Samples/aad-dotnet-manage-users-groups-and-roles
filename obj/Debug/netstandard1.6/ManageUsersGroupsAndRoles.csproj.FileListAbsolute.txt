@@ -1,2 +1,0 @@
-C:\Sources\dotnet-samples\aad-dotnet-manage-users-groups-and-roles\bin\Debug\netstandard1.6\ManageUsersGroupsAndRoles.deps.json
-C:\Sources\dotnet-samples\aad-dotnet-manage-users-groups-and-roles\obj\Debug\netstandard1.6\ManageUsersGroupsAndRoles.csproj.CoreCompileInputs.cache

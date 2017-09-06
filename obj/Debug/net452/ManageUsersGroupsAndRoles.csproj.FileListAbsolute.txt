@@ -1,4 +1,0 @@
-C:\Sources\dotnet-samples\aad-dotnet-manage-users-groups-and-roles\bin\Debug\net452\ManageUsersGroupsAndRoles.runtimeconfig.json
-C:\Sources\dotnet-samples\aad-dotnet-manage-users-groups-and-roles\bin\Debug\net452\ManageUsersGroupsAndRoles.runtimeconfig.dev.json
-C:\Sources\dotnet-samples\aad-dotnet-manage-users-groups-and-roles\obj\Debug\net452\ManageUsersGroupsAndRoles.csproj.ManageUsersGroupsAndRoles.exe.config
-C:\Sources\dotnet-samples\aad-dotnet-manage-users-groups-and-roles\obj\Debug\net452\ManageUsersGroupsAndRoles.csproj.CoreCompileInputs.cache
