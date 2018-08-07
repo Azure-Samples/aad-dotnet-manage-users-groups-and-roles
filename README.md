@@ -1,10 +1,10 @@
 ---
-services: Aad
-platforms: .Net
+services: Graph-Rbac
+platforms: dotnet
 author: jianghaolu
 ---
 
-# Getting Started with Aad - Manage Users Groups And Roles - in .Net #
+# Getting started on managing users and groups using C# #
 
           Azure Users, Groups and Roles sample.
           - Create a user
@@ -21,7 +21,7 @@ author: jianghaolu
 
 To run this sample:
 
-Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-sdk-for-net/blob/Fluent/AUTH.md).
+Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-java/blob/master/AUTH.md).
 
     git clone https://github.com/Azure-Samples/aad-dotnet-manage-users-groups-and-roles.git
 
