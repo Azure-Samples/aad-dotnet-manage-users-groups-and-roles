@@ -4,22 +4,22 @@ languages:
 - csharp
 products:
 - azure
-services: Graph-Rbac
-platforms: dotnet
-author: yaohaizh
+extensions:
+- services: Graph-Rbac
+- platforms: dotnet
 ---
 
 # Getting started on managing users and groups using C# #
 
-          Azure Users, Groups and Roles sample.
-          - Create a user
-          - Assign role to AD user
-          - Revoke role from AD user
-          - Get role by scope and role name
-          - Create service principal
-          - Assign role to service principal
-          - Create 2 Active Directory groups
-          - Add the user, the service principal, and the 1st group as members of the 2nd group
+ Azure Users, Groups and Roles sample.
+ - Create a user
+ - Assign role to AD user
+ - Revoke role from AD user
+ - Get role by scope and role name
+ - Create service principal
+ - Assign role to service principal
+ - Create 2 Active Directory groups
+ - Add the user, the service principal, and the 1st group as members of the 2nd group
 
 
 ## Running this Sample ##
