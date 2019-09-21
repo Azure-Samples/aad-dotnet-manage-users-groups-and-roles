@@ -7,6 +7,7 @@ products:
 extensions:
 - services: Graph-Rbac
 - platforms: dotnet
+description: "Azure Users, Groups and Roles sample."
 ---
 
 # Getting started on managing users and groups using C# #
