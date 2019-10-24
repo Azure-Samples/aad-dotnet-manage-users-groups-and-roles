@@ -4,13 +4,16 @@ languages:
 - csharp
 products:
 - azure
+- azure-active-directory
+- dotnet
 extensions:
 - services: Graph-Rbac
 - platforms: dotnet
 description: "Azure Users, Groups and Roles sample."
+urlFragment: getting-started-on-managing-users-and-groups-using-c
 ---
 
-# Getting started on managing users and groups (C#)
+# Get started managing users and groups (C#)
 
 Azure Users, Groups and Roles sample.
 
