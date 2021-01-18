@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Graph-Rbac
-- platforms: dotnet
+  services: Graph-Rbac
+  platforms: dotnet
 ---
 
 # Getting started on managing users and groups using C# #
